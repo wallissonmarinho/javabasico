@@ -4,7 +4,7 @@
  * Fontes disponíveis em https://github.com/rodrigofujioka
  * 
  * Professor: Rodrigo da Cruz Fujioka
- * 
+ * Ano: 2016
  * http://www.rodrigofujioka.com
  * http://www.fujideia.com.br
  * http://lattes.cnpq.br/0843668802633139
@@ -12,31 +12,26 @@
  * Contato: rcf4@cin.ufpe.br 
  * 
  */
-package com.rodrigofujioka.javabasico.aula02;
+package com.rodrigofujioka.javabasico.aula03;
 
 /**
- * Classes e comportamento (Métodos)
- * @author Rodrigo.fujioka
- * 
- * @data 04/02/2016  21:00 
- *
+ * Classe que define o objeto professor e seu comportamento.
+ * @author: Rodrigo
+ * @date: 10 de fev de 2016
+ * @Time: 05:41:32
  */
-public class RodrigoFujioka {
+public class Professor {
+	
+	String disciplina ;
 	
 	/**
-	 * Metodo que imprime o nome
 	 * 
+	 * Esse método ensina alguma disciplina.
 	 */
-	public void imprimeNome(){
-		System.out.println("Rodrigo Fujioka");
-	}
-	
-	/**
-	 * Metodo que imprime a idade
-	 */
-	public void imprimeIdade(){
-		System.out.println("19 anos");
-			
+	public void ensina(){
+		
+		System.out.println("O professor esta ensinando a disciplina de " + this.disciplina);
+		
 	}
 
 }
