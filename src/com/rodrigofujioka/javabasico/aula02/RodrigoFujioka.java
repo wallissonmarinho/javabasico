@@ -1,4 +1,4 @@
-package com.rodrigofujioka.javabasico.auladois;
+package com.rodrigofujioka.javabasico.aula02;
 
 /**
  * Classes e comportamento (Métodos)

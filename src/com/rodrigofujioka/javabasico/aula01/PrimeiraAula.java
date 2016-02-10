@@ -1,4 +1,4 @@
-package com.rodrigofujioka.javabasico.aulaum;
+package com.rodrigofujioka.javabasico.aula01;
 
 /**
  * Primeiro programa java.
