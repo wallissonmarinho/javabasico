@@ -37,10 +37,12 @@ public class AtribuirValorVariavel {
 		System.out.println("Escreva o ano de nascimento");
 		int anoNacimento = leitor.nextInt();
 		System.out.println("O inteiro lido foi -> " + anoNacimento);
-
+	
 		System.out.println("Escreva a sua idade, incluindo os meses já passados");
 		double idade= leitor.nextDouble();
-		System.out.println("O inteiro lido foi -> " + idade);		
+		System.out.println("O inteiro lido foi -> " + idade);	
+		
+		leitor.close();
 									
 	}
 }
