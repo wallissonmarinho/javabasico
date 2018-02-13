@@ -24,13 +24,13 @@ public class UsaEmpregados {
 	
 	public static void main(String[] args) {
 				
-		Presidente presidente = new Presidente();
+		Presidente presidente = new Presidente("Michel Temer");
 		presidente.trabalhar();
 		
-		Gerente gerente = new Gerente();
+		Gerente gerente = new Gerente("Rodrigo Fujioka");
 		gerente.trabalhar();
 		
-		Empregado empregado = new Empregado();
+		Empregado empregado = new Empregado("Alunos");
 		empregado.trabalhar();
 				
 	}

@@ -21,12 +21,12 @@ package com.rodrigofujioka.javabasico20161.aula05;
  * @Time: 21:44:52
  */
 public class Gerente extends Empregado{
-	
-	public Gerente(){	
-	
-	System.out.println("Construtor gerente");	
+
+	public Gerente(String nome) {
+		super(nome);
+		// TODO Auto-generated constructor stub
 	}
-	
+
 	public void recebeSuperSalario(){
 		System.out.println("Gastando muito");
 	}

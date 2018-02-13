@@ -32,7 +32,7 @@ public class OperadoresJava {
 		PessoaEspecial  pe = new PessoaEspecial();
 		Pessoa pp = new PessoaEspecial();
 		
-		float valorFloat = 4.6; 
+		float valorFloat = 4.6f; 
 		
 		
 		if(p instanceof PessoaEspecial){

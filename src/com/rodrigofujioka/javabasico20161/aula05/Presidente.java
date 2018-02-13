@@ -22,8 +22,9 @@ package com.rodrigofujioka.javabasico20161.aula05;
  */
 public class Presidente extends Gerente {
 
-	public Presidente(){
-		System.out.println("Construtor Presidente");
+	public Presidente(String nome){
+		super(nome);
+		System.out.println("Construtor Presidente" + nome);
 		
 	}
 	
