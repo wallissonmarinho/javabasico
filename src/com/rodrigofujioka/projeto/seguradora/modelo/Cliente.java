@@ -8,6 +8,15 @@ public class Cliente {
 	private String nome;
 	private TipoPessoa tipoPessoa;
 	
+	
+			
+	@Override
+	public String toString() {
+		return "Cliente [codigo=" + codigo + ", nome=" + nome + ", tipoPessoa=" + tipoPessoa + "]";
+	}
+
+
+
 	public Cliente() {
 		// TODO Auto-generated constructor stub
 	}
