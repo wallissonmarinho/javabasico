@@ -4,12 +4,18 @@ Repositório da disciplina de metodologia e Linguagem de Programação 2 (Java B
 
 
 ## Pré requisito
+- Possuir uma conta no GITHUB, GITLAB ou Similares.
+
+## Ferramentas e Tecnologias utilizadas
+
 - Maven >= 3
 - Java >= 8
+- Spring Tools >= 4
 
-## Ferramentas utilizadas
-
-- ```[Spring Tools](https://spring.io/tools)```
+#### URL's 
+- [Spring Tools](https://spring.io/tools)
+- [JDK](https://jdk.java.net/java-se-ri/11)
+- ```Outras ferramentas como NetBeans ou VS Code podem ser utilizadas)```
 
 ## Cursos recomendados
 
