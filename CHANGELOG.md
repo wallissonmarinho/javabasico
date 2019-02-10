@@ -8,20 +8,25 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 - 
 
+## 0.0.3 - 2019-02-10
+### Added
+- Organiza√ß√£o de pastas e c√≥digo. 
+
 ## 0.0.2 - 2019-02-04
 ### Added
-- Foi incluÌdo o arquivo README.MD
-- Foi incluÌdo o arquivo CHANGELOG.MD
+- Foi inclu√≠do o arquivo README.MD
+- Foi inclu√≠do o arquivo CHANGELOG.MD
 
 ### Changed
 - Foram alterados os nomes dos packages para com.rodrigofujioka.javabasico 
 com.rodrigofujioka.projeto
-- Removidos arquivos que estavam vinculados a ferramenta e n„o eram 
-necess·rios para importaÁ„o do projeto. 
+- Removidos arquivos que estavam vinculados a ferramenta e n√£o eram 
+necess√°rios para importa√ß√£o do projeto. 
 
 ## 0.0.1 - 2016-02-07
 ### Added
-- CriaÁ„o do repositÛrio no github. 
+- Cria√ß√£o do reposit√≥rio no github. 
 
 [Unreleased]: https://github.com/rodrigofujioka/javabasico/tag/v0.0.1...HEAD
+[0.0.3]: https://github.com/rodrigofujioka/javabasico/v0.0.3...v0.0.2
 [0.0.2]: https://github.com/rodrigofujioka/javabasico/v0.0.2...v0.0.1
