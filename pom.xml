@@ -2,7 +2,8 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>br.com.fujideia.unipe.cc</groupId>
   <artifactId>javabasico</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>0.0.3</version>
+  
   <name>Java Básico</name>
   <description>Projeto Java básico da disciplina Metologia e Linguagem de programação 2</description>
   	<!-- Informações de contato e autorais -->

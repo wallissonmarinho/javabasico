@@ -7,14 +7,17 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 ### Changed
 - 
+## v0.0.3 - 2019-02-10
+### Changed
+- Atualização de código
 
-## 0.0.2 - 2019-02-04
+## v0.0.2 - 2019-02-04
 ### Added
-- Foi incluído o arquivo README.MD
-- Foi incluído o arquivo CHANGELOG.MD
+-  Incluído o arquivo README.MD
+-  Incluído o arquivo CHANGELOG.MD
 
 ### Changed
-- Foram alterados os nomes dos packages para com.rodrigofujioka.javabasico 
+- Alterados os nomes dos packages para com.rodrigofujioka.javabasico 
 com.rodrigofujioka.projeto
 - Removidos arquivos que estavam vinculados a ferramenta e não eram 
 necessários para importação do projeto. 
