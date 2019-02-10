@@ -15,7 +15,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 -  README.MD
 -  CHANGELOG.MD
-
 ### Changed
 - Alterados os nomes dos packages para com.rodrigofujioka.javabasico 
 com.rodrigofujioka.projeto
@@ -30,3 +29,4 @@ necessários para importar do projeto.
 [0.0.4]: https://github.com/rodrigofujioka/javabasico/v0.0.4...v0.0.3
 [0.0.3]: https://github.com/rodrigofujioka/javabasico/v0.0.3...v0.0.2
 [0.0.2]: https://github.com/rodrigofujioka/javabasico/v0.0.2...v0.0.1
+
