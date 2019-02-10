@@ -2,9 +2,8 @@
 
 
 
-<img src="http://www.rodrigofujioka.com/logos/jaspion.jpg" alt="Javaspion" />
+<img src="https://github.com/rodrigofujioka/javabasico/blob/master/resources/javaspion.png" alt="Javaspion" />
 <img src="https://img.shields.io/badge/Version-v0.0.2-green.svg" alt="Versão" />
-[![version][version-badge]][CHANGELOG] [![license][license-badge]][LICENSE]
 
 Repositório da disciplina de metodologia e Linguagem de Programação 2 (Java Básico).
 - [Unipê](http://unipe.edu.br)
