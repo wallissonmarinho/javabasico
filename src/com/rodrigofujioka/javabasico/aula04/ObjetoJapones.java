@@ -1,7 +1,7 @@
 /**
- * Projeto das trilhas de treinamento de Java básico ou avançado 
- * com foco nas certificações java e em treinamentos corporativos. 
- * Fontes disponíveis em https://github.com/rodrigofujioka
+ * Projeto das trilhas de treinamento de Java bï¿½sico ou avanï¿½ado 
+ * com foco nas certificaï¿½ï¿½es java e em treinamentos corporativos. 
+ * Fontes disponï¿½veis em https://github.com/rodrigofujioka
  * 
  * Professor: Rodrigo da Cruz Fujioka
  * Ano: 2016
@@ -19,7 +19,6 @@ package com.rodrigofujioka.javabasico.aula04;
  * @author: Rodrigo
  * @date: 29 de fev de 2016
  * @Time: 00:10:15
- * @deprecated não use essa classe
  * @see <Professor.java>
  */
 public class ObjetoJapones {
