@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 ### Changed
 - 
+## v0.0.4 - 2019-07-123
+### Changed
+- Migrando projeto para o Idea.
+- Refatoração do código para trazer novidades do Java 11.
+- Criação de branches separadas com atualização de código por aula.  
+
 ## v0.0.3 - 2019-02-10
 ### Changed
 - Update code. 

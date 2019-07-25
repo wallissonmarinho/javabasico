@@ -20,6 +20,7 @@ Repositório da disciplina de metodologia e Linguagem de Programação 2 (Java B
 
 #### URL's 
 - [Spring Tools](https://spring.io/tools)
+- [Intellij Idea](https://www.jetbrains.com/idea/)   
 - [JDK](https://jdk.java.net/java-se-ri/11)
 - ```Outras ferramentas como NetBeans ou VS Code podem ser utilizadas)```
 
