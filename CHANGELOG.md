@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 ### Changed
 - 
+## v0.0.4 - 2019-07-123
+### Changed
+- Migrando projeto para o Idea.
+- Refatoração do código para trazer novidades do Java 11.
+- Criação de branches separadas com atualização de código por aula.  
+
 ## v0.0.3 - 2019-02-10
 ### Changed
 - Update code. 
@@ -15,7 +21,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 -  README.MD
 -  CHANGELOG.MD
-
 ### Changed
 - Alterados os nomes dos packages para com.rodrigofujioka.javabasico 
 com.rodrigofujioka.projeto
@@ -29,3 +34,4 @@ necessários para importar do projeto.
 [Unreleased]: https://github.com/rodrigofujioka/javabasico/tag/v0.0.1...HEAD
 [0.0.4]: https://github.com/rodrigofujioka/javabasico/compare/v0.0.4...v20191.0.3
 [0.0.3]: https://github.com/rodrigofujioka/javabasico/compare/v20191.0.3...master
+
