@@ -1,7 +1,7 @@
 /**
- * Projeto das trilhas de treinamento de Java bï¿½sico ou avanï¿½ado 
- * com foco nas certificaï¿½ï¿½es java e em treinamentos corporativos. 
- * Fontes disponï¿½veis em https://github.com/rodrigofujioka
+ * Projeto das trilhas de treinamento de Java básico ou avan?ado
+ * com foco nas certifica??es java e em treinamentos corporativos. 
+ * Fontes disponníeis em https://github.com/rodrigofujioka
  * 
  * Professor: Rodrigo da Cruz Fujioka
  * Ano: 2016
