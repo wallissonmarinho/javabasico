@@ -32,6 +32,11 @@ public class HelloWorld {
         //crt + space
         //crt + shift + F ->  eclipse
         //crt + alt + L  -> Intellij Idea
+        /**
+         * Aula01 - Aprendam GIT, Criem sua conta no Github e façam um fork do projeto de JavaBásico do meu repositório
+         * Vocês vão implementar na mão, porém, quem faltar pode baixar o repositório e não perder o conteúdo.
+         */
+
     }
 
 }
